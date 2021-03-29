@@ -52,3 +52,5 @@ The output for the above object would be:
 * Command line should correspond to linux conventions, eg using pipes `cat test.json | mycode`
 * Your code will be judged on correctness and code quality, but you do not need to focus on performance optimizations
 * Please add tests to validate that your code works correctly.
+
+## Working Times:
