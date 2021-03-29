@@ -1,0 +1,11 @@
+TO RUN (LINUX):
+    Give the executable file execute permissions
+        chmod +x flat_json
+    Run Using:
+        'cat test.json | flat_json'
+
+TO TEST (LINUX):
+    Give the executable file execute permissions
+        chmod +x flat_json_test
+    Run Using:
+        'cat flat_json_test'

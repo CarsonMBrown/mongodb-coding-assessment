@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 flat_json.py "test_jsons.json"
